@@ -9,7 +9,7 @@ TG Канал: https://t.me/marchukgpt
 
 ## Пример & шаблон
 
-Пример и шаблон можно найти по ссылке [**Google Sheet**](https://docs.google.com/spreadsheets/d/1V5QYlU7TjDxA-RcUP2a8wq6yoNqCuncjOg1SSwMdGUg/edit#gid=28837737)
+Пример и шаблон можно найти по ссылке [**Google Sheet**](https://docs.google.com/spreadsheets/d/1V5QYlU7TjDxA-RcUP2a8wq6yoNqCuncjOg1SSwMdGUg/edit?usp=sharing)
 
 ![image](https://github.com/Valuamba/mvs-framework/assets/53002931/66f44c88-edab-49b3-89d6-9f0ba53eedc5)
 
